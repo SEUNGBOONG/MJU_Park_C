@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/iseung-yeob/Desktop/Code/mjuUniversity/parkc/Homework2/Homework2",
+      "program": "/Users/iseung-yeob/Desktop/Code/mjuUniversity/parkc/Homework2/Homework2/build/Debug/outDebug"
+    }
+  ]
+}
